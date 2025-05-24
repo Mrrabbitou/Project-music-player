@@ -1,14 +1,2 @@
-﻿  main.cpp
-D:\期中考\Project music player\Project music player\main.cpp(69,21): warning C4566: 由通用字元名稱 '\U0001F44B' 表示的字元，無法在目前的字碼頁中表示 (950)
-D:\期中考\Project music player\Project music player\main.cpp(72,21): warning C4566: 由通用字元名稱 '\u26A0' 表示的字元，無法在目前的字碼頁中表示 (950)
-D:\期中考\Project music player\Project music player\main.cpp(72,21): warning C4566: 由通用字元名稱 '\uFE0F' 表示的字元，無法在目前的字碼頁中表示 (950)
-  player.cpp
-D:\期中考\Project music player\Project music player\player.cpp(12,17): warning C4566: 由通用字元名稱 '\u26A0' 表示的字元，無法在目前的字碼頁中表示 (950)
-D:\期中考\Project music player\Project music player\player.cpp(12,17): warning C4566: 由通用字元名稱 '\uFE0F' 表示的字元，無法在目前的字碼頁中表示 (950)
-D:\期中考\Project music player\Project music player\player.cpp(15,13): warning C4566: 由通用字元名稱 '\u25B6' 表示的字元，無法在目前的字碼頁中表示 (950)
-D:\期中考\Project music player\Project music player\player.cpp(15,13): warning C4566: 由通用字元名稱 '\uFE0F' 表示的字元，無法在目前的字碼頁中表示 (950)
-D:\期中考\Project music player\Project music player\player.cpp(47,13): warning C4566: 由通用字元名稱 '\U0001F500' 表示的字元，無法在目前的字碼頁中表示 (950)
-  playlist.cpp
-  song.cpp
-  正在產生程式碼...
+﻿  app.cpp
   Project music player.vcxproj -> D:\期中考\Project music player\x64\Debug\Project music player.exe

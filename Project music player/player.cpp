@@ -1,5 +1,4 @@
-﻿// Player.cpp
-#include "Player.h"
+﻿#include "Player.h"
 #include <iostream>
 #include <ctime>
 
@@ -9,10 +8,10 @@ Player::Player(Playlist& playlist)
 
 void Player::play() {
     if (playlist.getSize() == 0) {
-        cout << "⚠️ PlayList Is Empty,Unable To Play." << endl;
+        cout << " PlayList Is Empty,Unable To Play." << endl;
         return;
     }
-    cout << "▶️ Now Play：";
+    cout << " Now Play：";
     playlist.getSong(currentIndex).displayInfo();
 }
 
@@ -44,5 +43,5 @@ void Player::prev() {
 
 void Player::toggleShuffle() {
     isShuffling = !isShuffling;
-    cout << "🔀 Shuffle Mode Is" << (isShuffling ? "On" : "Off") << endl;
+    cout << " Shuffle Mode Is " << (isShuffling ? "On" : "Off") << endl;
 }

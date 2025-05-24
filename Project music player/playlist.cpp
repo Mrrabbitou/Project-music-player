@@ -1,11 +1,9 @@
 ﻿#include "Playlist.h"
-#include "Song.h"
 #include <iostream>
 
 Playlist::Playlist(string name) : name(name) {}
 
-void Playlist::addSong(const Song& song) 
-{
+void Playlist::addSong(const Song& song) {
     songs.push_back(song);
     cout << "New Song Added：" << song.getTitle() << endl;
 }

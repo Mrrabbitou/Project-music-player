@@ -131,8 +131,10 @@
     <ClCompile Include="playlist.cpp" />
     <ClCompile Include="player.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="app.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="app.h" />
     <ClInclude Include="song.h" />
     <ClInclude Include="playlist.h" />
     <ClInclude Include="player.h" />

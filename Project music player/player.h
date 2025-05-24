@@ -5,8 +5,7 @@
 #include <random>
 using namespace std;
 
-class Player 
-{
+class Player {
 private:
     Playlist& playlist;
     int currentIndex;
