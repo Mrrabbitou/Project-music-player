@@ -6,9 +6,29 @@
 
 ---
 *如何安裝執行:*
+點擊綠色的code按鈕，下載zip檔，檔案解壓縮後找到.sln檔，使用visual studio 2022版本打開便可執行。
 
 ---
 *運行畫面:*
+![image](https://github.com/user-attachments/assets/aed6b83d-4234-4b5c-ad66-3723e4908d1a)
+這是一開始的畫面，有執行列表。
+![image](https://github.com/user-attachments/assets/c8e2a867-bbe1-49a8-be2c-1f320da7a8b6)
+我先執行了1(加歌)，他會告訴你要輸入甚麼。p.s.輸入完歌詞後要再新增一行然後輸入END才會結束
+完了後他會再展示執行列表。
+![image](https://github.com/user-attachments/assets/1ff1c714-b255-4340-8fd3-28947e048719)
+選擇3可以秀出所有歌以及他們的所有資訊
+![image](https://github.com/user-attachments/assets/1c9035ff-69d4-4e74-adcb-d131f471a6de)
+選4會播放你加入的第一首歌。
+![image](https://github.com/user-attachments/assets/faad139d-43b8-497c-901e-1aa2387028f2)
+選5是播放下一首。
+![image](https://github.com/user-attachments/assets/87c30e06-d8fc-4897-820b-3961778b8278)
+選6是播放上一首。
+![image](https://github.com/user-attachments/assets/b5ef8752-62e8-49b9-82b4-3f488874ceb8)
+選7是打開隨機播放開關。
+![image](https://github.com/user-attachments/assets/4562d68b-c755-4c21-a39b-4fd41983eb95)
+選2是刪除歌曲。
+![image](https://github.com/user-attachments/assets/369ac547-877b-4e85-95c6-eff9f76e60e7)
+選0是離開。
 
 ---
 *分工資訊:*
